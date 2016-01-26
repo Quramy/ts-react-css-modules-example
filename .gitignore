@@ -1,0 +1,7 @@
+node_modules/
+*.swp
+*.swo
+built/
+*.css.d.ts
+bundle.css
+bundle.js

@@ -1,0 +1,24 @@
+{
+  "name": "ts-react-css-modules",
+  "version": "1.0.0",
+  "description": "example typescript react tsx widh css modules",
+  "main": "index.js",
+  "scripts": {
+    "dts": "tcm styles",
+    "ts": "tsc",
+    "bundle": "browserify -p [css-modulesify -o bundle.css styles/app.css] -o bundle.js built/app.js",
+    "build": "npm run dts; npm run ts; npm run bundle",
+    "start" "http-server -o index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-modulesify": "^0.16.1"
+  },
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  }
+}
