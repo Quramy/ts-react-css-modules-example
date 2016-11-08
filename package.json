@@ -1,7 +1,7 @@
 {
   "name": "ts-react-css-modules",
   "version": "1.0.0",
-  "description": "example typescript react tsx widh css modules",
+  "description": "example typescript react tsx with css modules",
   "main": "index.js",
   "scripts": {
     "dts": "tcm styles",
