@@ -15,7 +15,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "css-modulesify": "^0.16.1"
+    "browserify": "^13.1.1",
+    "css-modulesify": "^0.16.1",
+    "http-server": "^0.9.0",
+    "typed-css-modules": "^0.1.13",
+    "typescript": "^2.0.9"
   },
   "dependencies": {
     "react": "^0.14.6",
