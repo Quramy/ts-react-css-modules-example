@@ -1,5 +1,7 @@
 # ts-react-css-modules-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Quramy/ts-react-css-modules-example.svg)](https://greenkeeper.io/)
+
 This is a sample repository for React JSX with CSS Modules for TypeScript.
 
 ## install
